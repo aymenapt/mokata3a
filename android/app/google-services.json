@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "567707285639",
+    "firebase_url": "https://mokata3a-c8987-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mokata3a-c8987",
+    "storage_bucket": "mokata3a-c8987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567707285639:android:df76f15b211225c7c9e022",
+        "android_client_info": {
+          "package_name": "com.example.khial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPjt-CE_OAqf7X8PbJOAk3w1KGvpbuTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567707285639:android:63bce5d2fb3bfc93c9e022",
+        "android_client_info": {
+          "package_name": "com.example.mokata3a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPjt-CE_OAqf7X8PbJOAk3w1KGvpbuTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

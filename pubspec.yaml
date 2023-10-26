@@ -1,0 +1,52 @@
+name: mokata3a
+description: A new Flutter project.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0-215.0.dev <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_database: 
+  firebase_core: 
+  fluttertoast: 
+  page_transition: 
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/pflag.png" 
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/images/pflag.png
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf 
+        - asset: assets/fonts/Cairo-Medium.ttf
+        - asset: assets/fonts/Cairo-Bold.ttf 
+
+  
